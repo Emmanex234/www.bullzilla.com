@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /blog/ghost
+Allow: /
+Sitemap: https://www.bullzilla.com/sitemap-index.xml
